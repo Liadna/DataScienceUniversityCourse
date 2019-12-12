@@ -1,5 +1,5 @@
 ---
-title: "310657051_201543915"
+title: "EX2"
 author: "Alex&Liad"
 date: "April 11, 2017"
 output: html_document
