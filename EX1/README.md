@@ -16,8 +16,8 @@ This is my Page about Leopard.
 - parts of Asia
 
 ## Gallery
-![Leopard in the wild](/images/leopard.jpg)  
-![Leopard cartoon](/images/Leopard%20Cartoon.png)
+![Leopard in the wild](images/leopard.jpg)  
+![Leopard cartoon](images/Leopard Cartoon.png)
 
 ## Subspecies  
 Hebrew Name | English Name
