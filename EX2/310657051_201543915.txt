@@ -1,0 +1,6 @@
+team:
+Alex Lerman 310657051
+Liad Nahmias 201543915
+
+Github:
+https://github.com/Liadna/ex2---Titanic-Solve-Ready
