@@ -17,7 +17,7 @@ This is my Page about Leopard.
 
 ## Gallery
 ![Leopard in the wild](images/leopard.jpg)  
-![Leopard cartoon](images/Leopard Cartoon.png)
+![Leopard cartoon](images/Leopard%20Cartoon.png)
 
 ## Subspecies  
 Hebrew Name | English Name
